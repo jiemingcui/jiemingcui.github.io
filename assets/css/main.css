@@ -9556,3 +9556,9 @@ h1:before,
     background-color: #00369f;
     font-size: .8em
 }
+
+.badge-oral {
+    background: linear-gradient(135deg, #c9a227 0%, #b8860b 100%) !important;
+    color: #fff;
+    font-weight: 600;
+}
